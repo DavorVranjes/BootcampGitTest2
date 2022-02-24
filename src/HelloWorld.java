@@ -3,5 +3,6 @@ public class HelloWorld {
         System.out.println("Hello World");
         System.out.println("Prvi commit");
         System.out.println("Drugi commit");
+        System.out.println("Treci commit");
     }
 }
